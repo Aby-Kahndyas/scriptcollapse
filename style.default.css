@@ -1085,7 +1085,7 @@ nav.navbar a.menu-btn:hover {
 
 /* Activities  ------------------- */
 .activities li {
-  padding: 0;
+  padding: 2;
 }
 
 .activities .date-holder {
