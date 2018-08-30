@@ -173,7 +173,7 @@ section header {
 
 @media (min-width: 768px) {
   .container-fluid {
-    padding: 0 3rem;
+    padding: 1 2rem;
   }
 }
 
@@ -955,7 +955,7 @@ nav.navbar a.menu-btn:hover {
 }
 
 .updates li {
-  border-bottom: 1px solid #f3f3f3;
+  border-bottom: 1px solid #dff0f4;
   padding: .75rem 1.25rem;
 }
 
@@ -1085,7 +1085,7 @@ nav.navbar a.menu-btn:hover {
 
 /* Activities  ------------------- */
 .activities li {
-  padding: 2;
+  padding: 0;
 }
 
 .activities .date-holder {
